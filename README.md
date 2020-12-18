@@ -1,5 +1,11 @@
-[![Build Status](https://travis-ci.org/Rob--W/cors-anywhere.svg?branch=master)](https://travis-ci.org/Rob--W/cors-anywhere)
-[![Coverage Status](https://coveralls.io/repos/github/Rob--W/cors-anywhere/badge.svg?branch=master)](https://coveralls.io/github/Rob--W/cors-anywhere?branch=master)
+## @js8path/cors-anywhere
+
+This is a fork of CORS Anywhere (0.4.3) to proxy data requests from js8path-vue to various sources (pskreporter for now) 
+
+The original CORS Anywhere is at https://github.com/Rob--W/cors-anywhere/
+The original README.md contents follow.
+
+## Original CORS Anywhere README.md
 
 **CORS Anywhere** is a NodeJS proxy which adds CORS headers to the proxied request.
 

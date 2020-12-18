@@ -1,23 +1,23 @@
 {
-  "name": "cors-anywhere",
-  "version": "0.4.3",
-  "description": "CORS Anywhere is a reverse proxy which adds CORS headers to the proxied request. Request URL is taken from the path",
+  "name": "@js8path/cors-anywhere",
+  "version": "1.0.0",
+  "description": "Fork of CORS Anywhere to proxy data requests from js8path-vue",
   "license": "MIT",
-  "author": "Rob Wu <rob@robwu.nl>",
+  "author": {
+    "name": "Jeff Kunce, N0JUH",
+    "email": "js8path@gmail.com",
+    "url": "https://github.com/js8path/"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rob--W/cors-anywhere.git"
+    "url": "https://github.com/js8path/js8path-route"
   },
-  "bugs": {
-    "url": "https://github.com/Rob--W/cors-anywhere/issues/",
-    "email": "rob@robwu.nl"
-  },
-  "keywords": [
-    "cors",
-    "cross-domain",
-    "http-proxy",
-    "proxy",
-    "heroku"
+  "contributors": [
+    {
+      "name": "Rob Wu",
+      "email": "rob@robwu.nl",
+      "url": "https://github.com/Rob--W/cors-anywhere.git"
+    }
   ],
   "main": "./lib/cors-anywhere.js",
   "files": [
